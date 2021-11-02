@@ -1,4 +1,4 @@
- :us: This assignment is part of Coursera's course "Introduction to Computer Science with Python art 1 by University of São Paulo" programming assignments
+&nbsp; :us: &nbsp; This assignment is part of Coursera's course "Introduction to Computer Science with Python art 1 by University of São Paulo" programming assignments
 https://www.coursera.org/learn/ciencia-computacao-python-conceitos
 
 EXERCISE DESCRIPTION: Create a Python program that receives the corresponding value for a square side, calculate and print its perimeter and its area in the format: "perimeter: x - area: y"
