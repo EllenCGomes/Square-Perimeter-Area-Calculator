@@ -1,6 +1,6 @@
 &nbsp; 🇺🇸 &nbsp; This assignment is part of Coursera's course "[Introduction to Computer Science with Python Part 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) by University of São Paulo" programming assignments
 
-EXERCISE DESCRIPTION: Create a Python program that receives the corresponding value for a square side, calculate and print its perimeter and its area in the format: "perimeter: x - area: y"  [GO](Square-Perimeter-Area-Calculator/EX01 - perimeter_area.py)
+EXERCISE DESCRIPTION: Create a Python program that receives the corresponding value for a square side, calculate and print its perimeter and its area in the format: "perimeter: x - area: y"  [GO](EX01 - perimeter_area.py)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
