@@ -4,7 +4,7 @@ EXERCISE DESCRIPTION: Create a Python program that receives the corresponding va
 
 
 
- :brazil: Este exercício é parte da lista de exercícios do curso "Introdução à Ciência da Computação com Python Parte1" da Universidade de São Paulo (Coursera) 
-https://www.coursera.org/learn/ciencia-computacao-python-conceitos
+&nbsp; 🇧🇷 &nbsp; Este exercício é parte da lista de exercícios do curso "[Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)" da Universidade de São Paulo (Coursera) 
+
 
 DESCRIÇÃO: Faça um programa em Python que receba o valor correspondente ao lado de um quadrado, calcule e imprima seu perímetro e sua área no formato: "perímetro: x - área: y"
