@@ -7,4 +7,4 @@ perimeter = (int(side))**2
 # calculate area
 area = (int(side))*4
 
-print("perimeter: {} - area: {}".format(perimeter, area))
+print(f"perimeter: {perimeter} - area: {area}")
